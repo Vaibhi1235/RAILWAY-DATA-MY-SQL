@@ -1,0 +1,15 @@
+emp_id,emp_name,fair,class,train_no
+101,vaibhavi,900,"sleeper class",12157
+102,vaibhavi,1200,"third ac",12157
+103,vaibhav,400,journal,12528
+104,vishal,3000,"first ac",12528
+105,vaibhavi,800,"second ac",12527
+106,vaibhavi,1000,"sleeper class",22106
+107,vaibhav,800,"third ac",12297
+108,vaibhav,2000,"second ac",12297
+109,vishal,3000,"first ac",7305
+110,vishal,700,journal,7305
+111,vaibhavi,1000,"sleeper class",11029
+112,vaibhav,900,journal,11029
+113,vishal,3000,"first ac",11033
+114,vaibhavi,2000,"second ac",1552

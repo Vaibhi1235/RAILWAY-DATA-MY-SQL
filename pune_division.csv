@@ -1,0 +1,10 @@
+train_no,train_name,start_station,destination,category
+1552,special,pune,lonavala,local
+7305,nizamudin,hubli,nizamudin,express
+11029,koyna,mumbai,kolhapur,express
+11033,darbhanga,pune,darbhanga,express
+12157,hutatma,pune,solapur,express
+12297,duranto,ahmadabad,pune,express
+12527,cstm,mumbai,latur,express
+12528,latur,latur,mumbai,express
+22106,indrayani,pune,mumbai,express
